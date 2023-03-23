@@ -10,4 +10,4 @@ The purpose of this challenge was to refactor the starter code provided to optim
 
 https://github.com/CaitD35/horiseon-refactor-.git
 
-(https://caitd35.github.io/horiseon-refactor-/
+https://caitd35.github.io/horiseon-refactor-/
