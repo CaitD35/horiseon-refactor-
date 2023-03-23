@@ -8,6 +8,6 @@ The purpose of this challenge was to refactor the starter code provided to optim
 ![Horiseon webpage showing nav bar, header, texts and images.](./assets/images/01-html-css-git-homework-demo.png)
 
 
-![link to github repo](https://github.com/CaitD35/horiseon-refactor-.git)
+https://github.com/CaitD35/horiseon-refactor-.git
 
-![link to live site](https://caitd35.github.io/horiseon-refactor-/)
+(https://caitd35.github.io/horiseon-refactor-/
